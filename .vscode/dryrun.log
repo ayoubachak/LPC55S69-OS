@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: *** No targets specified and no makefile found.  Stop.
+
+make: Entering directory 'g:/My Drive/Drive S7 best/JS/P2/OS/LPC55S69_OS.src'
+make: Leaving directory 'g:/My Drive/Drive S7 best/JS/P2/OS/LPC55S69_OS.src'
+ 
